@@ -16,6 +16,7 @@ public:
 	virtual void StartupModule() override;
 	virtual void ShutdownModule() override;
 
+
 	virtual void PostCreateInstance(XrInstance InInstance) override;
 
 
